@@ -1,9 +1,5 @@
 # Jogo da Cobrinha
 
-![Snake Game](https://link-para-uma-imagem-do-jogo.png) *(Opcional: Adicione uma imagem ou GIF do jogo em ação)*
-
-## Descrição
-
 Este é uma implementação clássica do **Jogo da Cobrinha (Snake)** desenvolvida em **Python** utilizando a biblioteca **Pygame**. O jogo permite que o jogador controle uma cobrinha que cresce ao comer alimentos, evitando colidir consigo mesma ou com as bordas da tela.
 
 ## Funcionalidades
